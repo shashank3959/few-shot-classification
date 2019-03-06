@@ -1,2 +1,6 @@
-# few-shot-classification
-Repository containing code for few-shot classification
+# Few Shot Learning
+## Repository for the Independent Study on Few Shot Learning
+
+
+### Owner/Author: 
+  - [Shashank Verma](mailto:sverma28@wisc.edu)
