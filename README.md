@@ -1,6 +1,5 @@
 # Few Shot Learning
-## Repository for the Independent Study on Few Shot Learning
+## Repository for the Independent Study on Few Shot Learning / Meta Learning
 
-
-### Owner/Author: 
+### Contributors: 
   - [Shashank Verma](mailto:sverma28@wisc.edu)
